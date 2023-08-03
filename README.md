@@ -1,2 +1,5 @@
-# distancia-capitais
-Aplicação com tabela de distancia entre capitais brasileiras
+# Distância entre capitais brasileiras
+
+Aplicação com tabela de distância entre capitais brasileiras.
+
+Turma: 1º C
